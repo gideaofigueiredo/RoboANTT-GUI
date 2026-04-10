@@ -7,8 +7,17 @@ Este repositório contém o código-fonte da aplicação. Para baixar a versão 
 ## Funcionalidades
 
 * **Interface Gráfica:** Não é preciso mexer em código. Todos os dados (credenciais, placa, etc.) são inseridos na janela da aplicação.
+  
+  <img width="597" height="677" alt="image" src="https://github.com/user-attachments/assets/39dbf832-f064-42bf-bc07-9141d86dec75" />
+
 * **Lembrar Credenciais:** Opção para salvar CNPJ e Código de Acesso localmente, evitando digitá-los a cada execução.
+  
+  <img width="570" height="119" alt="image" src="https://github.com/user-attachments/assets/cf4d085d-2659-4fdb-9109-cfdc9441601d" />
+
 * **Seleção de Arquivo:** Carregue qualquer arquivo `.csv` de passageiros diretamente da sua pasta (ex: Downloads, Documentos).
+  
+  <img width="589" height="72" alt="image" src="https://github.com/user-attachments/assets/4070ff9e-358a-4141-b875-ea5ad95e2e54" />
+
 * **Login Automático:** A aplicação faz o login e navega até à página correta da solicitação.
 * **Cadastro em Lote:** Adiciona todos os passageiros do seu arquivo `.csv` de uma só vez.
 * **Limpeza Automática:** Os campos "Placa do Veículo" e "Nº da Solicitação" são limpos automaticamente após o cadastro, evitando execuções acidentais duplicadas.
